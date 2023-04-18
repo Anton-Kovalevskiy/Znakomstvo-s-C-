@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\Учёба в IT\\Лекции\\Знакомство с языком C#\\1_Lection\\Examples\\001_Examples\\001_Examples.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\Учёба в IT\\Лекции\\Знакомство с языком C#\\1_Lection\\Examples\\001_Examples\\001_Examples.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Учёба в IT\\Лекции\\Знакомство с языком C#\\1_Lection\\Examples\\001_Examples\\001_Examples.csproj",
+        "projectName": "001_Examples",
+        "projectPath": "D:\\Documents\\Учёба в IT\\Лекции\\Знакомство с языком C#\\1_Lection\\Examples\\001_Examples\\001_Examples.csproj",
+        "packagesPath": "C:\\Users\\The Runner\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Учёба в IT\\Лекции\\Знакомство с языком C#\\1_Lection\\Examples\\001_Examples\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\The Runner\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\bin\Debug\net6.0\001_Examples.exe
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\bin\Debug\net6.0\001_Examples.deps.json
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\bin\Debug\net6.0\001_Examples.runtimeconfig.json
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\bin\Debug\net6.0\001_Examples.dll
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\bin\Debug\net6.0\001_Examples.pdb
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\obj\Debug\net6.0\001_Examples.csproj.AssemblyReference.cache
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\obj\Debug\net6.0\001_Examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\obj\Debug\net6.0\001_Examples.AssemblyInfoInputs.cache
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\obj\Debug\net6.0\001_Examples.AssemblyInfo.cs
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\obj\Debug\net6.0\001_Examples.csproj.CoreCompileInputs.cache
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\obj\Debug\net6.0\001_Examples.dll
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\obj\Debug\net6.0\refint\001_Examples.dll
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\obj\Debug\net6.0\001_Examples.pdb
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\obj\Debug\net6.0\001_Examples.genruntimeconfig.cache
+D:\Documents\Учёба в IT\Лекции\Знакомство с языком C#\1_Lection\Examples\001_Examples\obj\Debug\net6.0\ref\001_Examples.dll
